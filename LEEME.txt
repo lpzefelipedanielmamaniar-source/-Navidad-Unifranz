@@ -1,0 +1,11 @@
+NAVIDAD UNIFRANZ - 3 PAGINAS DIFERENTES
+
+1. Abre esta carpeta en Visual Studio Code.
+2. Abre script.js y cambia 'Ingeniero 1', 'Ingeniero 2', 'Ingeniero 3' y sus mensajes.
+3. Abre ingeniero1.html, ingeniero2.html o ingeniero3.html en el navegador para probar.
+4. Publica todos los archivos juntos en un mismo sitio de GitHub Pages (o similar).
+5. Los tres enlaces públicos terminarán en /ingeniero1.html, /ingeniero2.html y /ingeniero3.html.
+6. Convierte CADA enlace en un QR distinto y pruébalos en un celular ANTES de imprimir.
+7. Para cambiar mensajes luego, edita script.js y vuelve a publicar sin cambiar los enlaces.
+
+IMPORTANTE: No imprimas códigos QR con rutas locales tipo file:/// o enlaces de prueba. Mantén el alojamiento y las direcciones públicas activas.
